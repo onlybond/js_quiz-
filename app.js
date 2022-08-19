@@ -27,7 +27,7 @@ generateQuiz(myQuestions, quizContainer, resultsContainer, submitButton);
 
 function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 
-	function showQuestions(questions, quizContainer)
+	function showQuestions(questions, quizContainer){
 		var output = [];
 		var answers;
 
