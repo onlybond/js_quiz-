@@ -2,7 +2,7 @@ var myQuestions = [
 	{
 		question: "Why is stackup the best platform to learn and earn?",
 		answers: {
-			a: 'because of the stackup discord community',
+			a: 'because of the lovely and lively stackup discord community',
 			b: 'because of their pretty and hardworking CM Aunt bern ',
 			c: 'All of the above'
 		},
