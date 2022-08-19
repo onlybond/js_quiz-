@@ -9,7 +9,7 @@ var myQuestions = [
 		correctAnswer: 'c'
 	},
 	{
-		question: "if you are travelling a a speed of 40 km/h and\n accelerating at a rate of 3km.h. and the\n gravity is 10g, what is\n the probability you will survive bern's slipper attack",
+		question: "if you are travelling at a speed of 40 km/h and\n accelerating at a rate of 3km.h. and the\n gravity is 10g, what is\n the probability you will survive bern's slipper attack",
 		answers: {
 			a: 'spot ded',
 			b: 'dodge [never an option, still to be fair kek]',
